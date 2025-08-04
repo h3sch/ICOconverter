@@ -2,7 +2,7 @@
    ICO-KONVERTER MIT VORSCHAU
 ================================
 
-Ein einfaches, benutzerfreundliches Tool zur Umwandlung von JPG- oder PNG-Bildern in ICO-Dateien für Windows-Icons – mit Vorschau, Größenwahl, Bit-Tiefe und Drag & Drop.
+Ein einfaches, benutzerfreundliches Tool zur Umwandlung von JPG- oder PNG-Bildern in ICO-Dateien – mit Vorschau, Größenwahl, Bit-Tiefe und Drag & Drop.
 
 Das Programm basiert auf Python und nutzt die Bibliotheken:
 - Pillow (Bildverarbeitung)
