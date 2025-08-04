@@ -1,6 +1,5 @@
-================================
-   ICO-KONVERTER MIT VORSCHAU
-================================
+====ICO-KONVERTER MIT VORSCHAU====
+
 
 Ein einfaches, benutzerfreundliches Tool zur Umwandlung von JPG- oder PNG-Bildern in ICO-Dateien – mit Vorschau, Größenwahl, Bit-Tiefe und Drag & Drop.
 
