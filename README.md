@@ -1,6 +1,6 @@
-===========================================
-   ICO-KONVERTER MIT VORSCHAU & DARKMODE
-===========================================
+================================
+   ICO-KONVERTER MIT VORSCHAU
+================================
 
 Ein einfaches, benutzerfreundliches Tool zur Umwandlung von JPG- oder PNG-Bildern in ICO-Dateien für Windows-Icons – mit Vorschau, Größenwahl, Bit-Tiefe und Drag & Drop.
 
