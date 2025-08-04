@@ -82,17 +82,3 @@ LIZENZ
 
 MIT License – frei nutzbar, anpassbar und erweiterbar.  
 Verwendung der generierten Icons erfolgt auf eigene Verantwortung.
-
--------------------------------------------
-ASCII CREDITS
-
-              _______________
-             |               |
-             |   .-----.     |
-             |  /       \    |
-             | |   o o   |   |   <- Icon Generator
-             |  \   ∆   /    |
-             |   '-----'     |
-             |_______________|
-
-         Powered by Python + Pillow
