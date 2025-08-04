@@ -12,13 +12,11 @@ Das Programm basiert auf Python und nutzt die Bibliotheken:
 -------------------------------------------
 FEATURES
 -------------------------------------------
-✔ Drag & Drop von Bildern direkt ins Fenster  
-✔ Vorschau des Bildes vor dem Konvertieren  
-✔ Auswahl mehrerer ICO-Größen: 16, 32, 48, 64, 128, 256 px  
-✔ Bit-Tiefe: 16 Bit (RGB) oder 32 Bit (RGBA mit Transparenz)  
-✔ Automatische Benennung: Ursprungsname_ico.ico  
-✔ Moderner Darkmode dank customtkinter  
-✔ Kein Export, bevor das Bild angezeigt wird  
+Drag & Drop von Bildern direkt ins Fenster  
+Vorschau des Bildes vor dem Konvertieren  
+Auswahl mehrerer ICO-Größen: 16, 32, 48, 64, 128, 256 px  
+Bit-Tiefe: 16 Bit (RGB) oder 32 Bit (RGBA mit Transparenz)  
+Automatische Benennung: Ursprungsname_ico.ico   
 
 -------------------------------------------
 INSTALLATION
